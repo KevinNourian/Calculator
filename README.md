@@ -27,9 +27,9 @@ To Run:
 - python -m Calculator.Calculator
 
 ## Screen Shots
-![Colab_Installation](C:\py\Projects\Turing_College\Calculator\Colab_Installation.png)
+![Colab_Installation](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Installation.PNG)
 
-![Colab_Run](C:\py\Projects\Turing_College\Calculator\Colab_Run.png)
+![Colab_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Run.PNG)
 
 
 ## License
