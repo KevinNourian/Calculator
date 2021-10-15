@@ -1,4 +1,4 @@
-![Calculator](\https://github.com/knourian/Calculator/Calculator/Images/Calculator.png)
+![Calculator](https://github.com/knourian/Calculator/Calculator/Images/Calculator.png)
 
 # Simple Calculator
 This is a small, interactive program written in Python. It is useful for basic mathematical calculations. The user is shown a menu of options, from which to choose. The calculator perform actions with a value inside its memory, which is set at 0 when the program starts. For this example, if the value inside the calculator's memory is 10: calculator.add(5) results in 15.
