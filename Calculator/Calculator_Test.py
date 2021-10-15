@@ -35,7 +35,7 @@ class TestSearchusers(unittest.TestCase):
 
 if __name__ == '__main__':
 
-    from Calculator_Class import Calculator
+    from Calculator.Calculator_Class import Calculator
 
     calculator = Calculator(memory = 0)
 
