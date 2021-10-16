@@ -27,11 +27,11 @@ pip install git+https://github.com/KevinNourian/Calculator.git
 
 python -m Calculator.Calculator
 
-## To run the test in Google Colab:
+## To test the program on Google Colab:
 
 ! python -m Calculator.Calculator_Test
 
-## To run the test from the command line:
+## To test the program from the command line:
 
 python -m Calculator.Calculator
 
@@ -67,4 +67,4 @@ SOFTWARE.
 
 
 ## Logo Image Credit
-Image by <a href="https://pixabay.com/users/caffeinesystem-1979991/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1555910">Rachel C</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1555910">Pixabay</a>
+Image by <a href="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3714907">mohamed Hassan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3714907">Pixabay</a>
