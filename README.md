@@ -13,32 +13,32 @@ This is a small, interactive program written in Python. It is useful for basic m
 - Clear memory
 
 ## Google Colab Installation and Execution
-To install the program in Google Colab:
+*To install the program in Google Colab:*
 
 %pip install git+https://github.com/KevinNourian/Calculator.git
 
-To execute the program in Google Colab:
+*To execute the program in Google Colab:*
 ! python -m Calculator.Calculator
 
 ## Command Line Installation and Execution
-To install the program from the command line:
+*To install the program from the command line:*
 
 pip install git+https://github.com/KevinNourian/Calculator.git
 
-To execute the program from the command line:
+*To execute the program from the command line:*
 
 python -m Calculator.Calculator
 
-### Testing the Program:
-To run the test in Google Colab:
+## Testing the Program:
+*To run the test in Google Colab:*
 
 ! python -m Calculator.Calculator_Test
 
-To run the test from the command line:
+### To run the test from the command line:
 
 python -m Calculator.Calculator
 
-### Screen Shots
+## Screen Shots
 ![Colab_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Run.PNG)
 
 
