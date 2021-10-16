@@ -12,24 +12,28 @@ This is a small, interactive program written in Python. It is useful for basic m
 - Set memory
 - Clear memory
 
-## Installation and Running the Code in Google Colab
-to Install:
+## Installation on Google Colab
 - %pip install git+https://github.com/KevinNourian/Calculator.git
-
-To Run
-- ! python -m Calculator.Calculator
-
-## Installation and Running the Code on Command Line
-To Install:
-- pip install git+https://github.com/KevinNourian/Calculator.git
-
-To Run:
-- python -m Calculator.Calculator
-
-## Screen Shots
 ![Colab_Installation](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Installation.PNG)
 
+
+## Execution on Google Colab
+- ! python -m Calculator.Calculator
 ![Colab_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Run.PNG)
+
+
+## Installation on Command Line
+- pip install git+https://github.com/KevinNourian/Calculator.git
+
+
+## Execution on Command Line
+- python -m Calculator.Calculator
+
+## Testing on Google Colab
+- ! python -m Calculator.Calculator_Test
+
+## Testing on Command Line
+- python -m Calculator.Calculator_Test
 
 
 ## License
