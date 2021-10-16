@@ -14,6 +14,7 @@ This is a small, interactive program written in Python. It is useful for basic m
 
 ## Google Colab Installation and Execution
 To install the program in Google Colab:
+
 %pip install git+https://github.com/KevinNourian/Calculator.git
 
 To execute the program in Google Colab:
@@ -21,16 +22,20 @@ To execute the program in Google Colab:
 
 ## Command Line Installation and Execution
 To install the program from the command line:
+
 pip install git+https://github.com/KevinNourian/Calculator.git
 
 To execute the program from the command line:
+
 python -m Calculator.Calculator
 
 ### Testing the Program:
 To run the test in Google Colab:
+
 ! python -m Calculator.Calculator_Test
 
 To run the test from the command line:
+
 python -m Calculator.Calculator
 
 ### Screen Shots
@@ -38,12 +43,6 @@ python -m Calculator.Calculator
 
 
 ![CommandLine_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/CommandLine_Run.PNG)
-
-
-![Colab_Test](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Test.PNG)
-
-
-![CommandLine_Test](https://github.com/KevinNourian/Calculator/blob/main/Images/CommandLine_Test.PNG)
 
 
 ## License
