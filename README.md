@@ -12,33 +12,30 @@ This is a small, interactive program written in Python. It is useful for basic m
 - Set memory
 - Clear memory
 
-## Google Colab Installation
+## Google Colab Installation and Execution
 %pip install git+https://github.com/KevinNourian/Calculator.git
+! python -m Calculator.Calculator
 
-![Colab_Installation](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Installation.PNG)
-
-## Command Line Installation
+## Command Line Installation and Execution
 pip install git+https://github.com/KevinNourian/Calculator.git
+python -m Calculator.Calculator
+
+### Google Colab Code Test
+! python -m Calculator.Calculator_Test
+
+## Command Line Code Test
+python -m Calculator.Calculator
+
+### Screen Shots
+![Colab_Installation](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Installation.PNG)
 
 ![CommandLine_Installation](https://github.com/KevinNourian/Calculator/blob/main/Images/CommandLine_Installation.PNG)
 
-## Google Colab Execution
-! python -m Calculator.Calculator
-
 ![Colab_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Run.PNG)
-
-## Command Line Execution
-python -m Calculator.Calculator
 
 ![CommandLine_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/CommandLine_Run.PNG)
 
-## Google Colab Test Execution
-! python -m Calculator.Calculator_Test
-
 ![Colab_Test](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Test.PNG)
-
-## Command Line Test Execution
-python -m Calculator.Calculator_Test
 
 ![CommandLine_Test](https://github.com/KevinNourian/Calculator/blob/main/Images/CommandLine_Test.PNG)
 
