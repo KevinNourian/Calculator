@@ -1,5 +1,3 @@
-![Calculator](https://github.com/KevinNourian/Calculator/blob/main/Images/Calculator.png)
-
 <img src="https://github.com/KevinNourian/Calculator/blob/main/Images/Calculator.png" width="200" height="200" />
 
 
@@ -43,7 +41,7 @@ python -m Calculator.Calculator
 
 ## To test the program from the command line:
 
-python -m Calculator.Calculator
+python -m Calculator.Calculator_Test
 
 
 ## License
@@ -71,4 +69,4 @@ SOFTWARE.
 
 
 ## Logo Image Credit
-Image by <a href="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3714907">mohamed Hassan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3714907">Pixabay</a>
+Image by <a href="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3714907">Mohamed Hassan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3714907">Pixabay</a>
