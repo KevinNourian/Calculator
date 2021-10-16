@@ -1,4 +1,6 @@
-![Calculator](https://github.com/KevinNourian/Calculator/blob/main/Images/Calculator.png)
+<img src = "https://github.com/KevinNourian/Calculator/blob/main/Images/Calculator.png" width = "200", height = "200">
+
+Replace ![title](image-url.type) with <img src="https://image-url.type" width="200" height="200">
 
 # Simple Calculator
 This is a small, interactive program written in Python. It is useful for basic mathematical calculations. The user is shown a menu of options, from which to choose. The calculator perform actions with a value inside its memory, which is set at 0 when the program starts. For this example, if the value inside the calculator's memory is 10: calculator.add(5) results in 15.
