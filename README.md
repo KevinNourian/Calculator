@@ -2,13 +2,7 @@
 
 
 # Simple Calculator
-This is a small, interactive program written in Python. It is useful for basic mathematical calculations. The user is shown a menu of options, from which to choose. The calculator perform actions with a value inside its memory, which is set at 0 when the program starts. For this example, if the value inside the calculator's memory is 10: calculator.add(5) results in 15.
-
-## Screen Shots
-![Colab_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Run.PNG)
-
-
-![CommandLine_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/CommandLine_Run.PNG)
+This is a small, interactive program written in Python. It is useful for basic mathematical calculations. The user is shown a menu of options, from which to choose. The program starts with the calculator memory set at 0. The user chooses an action, for example, add and an integer, for example, 5. If the value in the calculator's memory is 10, calculator.add(5) results in 15.
 
 
 ## Features
@@ -20,27 +14,36 @@ This is a small, interactive program written in Python. It is useful for basic m
 - Set memory
 - Clear memory
 
-## To install the program in Google Colab:
 
+## Screen Shot: Google Colab
+![Colab_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/Colab_Run.PNG)
+
+
+## Screen Shot: Command Line
+![CommandLine_Run](https://github.com/KevinNourian/Calculator/blob/main/Images/CommandLine_Run.PNG)
+
+
+## To install the program in Google Colab:
 %pip install git+https://github.com/KevinNourian/Calculator.git
+
 
 ## To execute the program in Google Colab:
 ! python -m Calculator.Calculator
 
-## To install the program from the command line:
 
+## To install the program from the command line:
 pip install git+https://github.com/KevinNourian/Calculator.git
 
-## To execute the program from the command line:
 
+## To execute the program from the command line:
 python -m Calculator.Calculator
 
-## To test the program on Google Colab:
 
+## To test the program on Google Colab:
 ! python -m Calculator.Calculator_Test
 
-## To test the program from the command line:
 
+## To test the program from the command line:
 python -m Calculator.Calculator_Test
 
 

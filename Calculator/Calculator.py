@@ -27,12 +27,18 @@ if __name__ == '__main__':
             print(f'Result: {calculator.get_result()}')
         elif choice == 4:
             div_num = int(input('What number to divide? '))
-            calculator.div(div_num)
-            print(f'Result: {calculator.get_result()}')
+            if div_num == 0:
+                print('Incorrect Input. Division by 0.')
+            else:
+                calculator.div(div_num)
+                print(f'Result: {calculator.get_result()}')
         elif choice == 5:
             root_num = int(input('What number for the root? '))
-            calculator.root(root_num)
-            print(f'Result: {calculator.get_result()}')
+            if root_num == 0:
+                print('Incorrect Input. Root of 0.')
+            else:
+                calculator.root(root_num)
+                print(f'Result: {calculator.get_result()}')
         elif choice == 6:
             set_num = int(input('What number to set the memory? '))
             calculator.set_memory(set_num)
